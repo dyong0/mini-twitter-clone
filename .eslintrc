@@ -1,0 +1,18 @@
+{
+    "extends": "react-app",
+    "parserOptions": {
+        "ecmaVersion": 7
+    },
+    "ecmaFeatures": {
+        "jsx": true,
+        "experimentalObjectRestSpread": true,
+        "experimentalDecorators": true
+    },
+    "rules": {
+        "semi": ["warn", "never"],
+        "no-trailing-spaces": "warn",
+        "indent": ["error", 2],
+        "object-curly-spacing": ["error", "always"],
+        "quotes":["error", "single"]
+    }
+}
