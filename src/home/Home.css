@@ -1,0 +1,14 @@
+.Home {
+    overflow:auto;
+    padding-top:7px;
+}
+
+.Home__left-container {
+    float:left;
+    width: 290px;
+}
+
+.Home__right-container {
+    float:right;
+    width: 590px;
+}

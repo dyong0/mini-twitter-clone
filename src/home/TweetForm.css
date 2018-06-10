@@ -1,0 +1,52 @@
+.TweetForm {
+    background: none #e8faf2;
+    padding: 13px 11px;
+}
+
+.TweetForm__left-container {
+    display: inline-block;
+    width: 58px;
+}
+
+.TweetForm__right-container {
+    display: inline-block;
+    width: 510px;
+    vertical-align: top;
+}
+
+.TweetRichEditor {
+    width: 100%;
+}
+
+.TweetRichEditor__content {
+    border: 1px solid #ccc;
+    background: none #fff;
+    border-radius: 5px;
+    width: 494px;
+    padding:8px;
+    position:relative;
+    cursor:text;
+}
+
+.TweetRichEditor__content p {
+    margin: 0;
+    color:#19cf86;
+}
+
+.TweetRichEditor__content__btn-group {
+    position:absolute;
+    right:5px;
+    top:5px;
+}
+
+.TweetRichEditor__content__textarea {
+    width: 100%;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    outline: none;
+    border:0 none;
+    background:transparent none;
+    resize:vertical;
+    min-height:80px;
+}

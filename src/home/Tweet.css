@@ -1,0 +1,14 @@
+.Tweet {
+}
+
+.Tweet-header {
+    display: block;
+}
+
+.Tweet-body {
+}
+
+.Tweet-body p {
+    margin: 0;
+    padding: 0;
+}

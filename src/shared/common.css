@@ -1,0 +1,9 @@
+.hidden-text {
+    text-indent:-9999px;
+    display:inline-block;
+}
+
+.pull-right {
+    float: right;
+    text-align: left;
+}

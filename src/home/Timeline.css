@@ -1,0 +1,11 @@
+.Timeline {
+    width:590px;
+    background-color:#fff;
+    list-style: none;
+    margin:0;
+    padding:0;
+}
+
+.Timeline__item {
+    position:relative;
+}
